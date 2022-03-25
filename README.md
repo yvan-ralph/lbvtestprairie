@@ -8,6 +8,8 @@ Pour justifier votre approche, vous devrez presenter un **wireframe** de la page
 Ensuite, en utilisant une technique de *content strategy* de votre choix, vous devrez
 créer l'adaptation responsive de la wireframe (en wireframe ou prototype) et de la page web
 pour ensuite l'envoyer en ligne
+
+
 **NB**: Vous pouvez utilisez tous les outils/framework de votre choix
 
 Livrables attendus:
